@@ -24,6 +24,8 @@ url: https://raw.githubusercontent.com/api-evangelist/liberty-media/refs/heads/m
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/liberty-media
   - type: Website
     url: https://www.libertymedia.com/
   - type: About
