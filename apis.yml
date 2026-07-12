@@ -24,6 +24,8 @@ url: https://raw.githubusercontent.com/api-evangelist/liberty-media/refs/heads/m
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/liberty-media-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/liberty-media
   - type: Website
@@ -34,6 +36,8 @@ common:
     url: https://www.libertymedia.com/news
   - type: InvestorRelations
     url: https://www.libertymedia.com/investors
+  - url: https://www.libertymedia.com/news/rss
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
