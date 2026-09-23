@@ -1,7 +1,9 @@
 ---
 title: LIBERTY MEDIA CORPORATION_December 31, 2025
 url: https://www.sec.gov/Archives/edgar/data/1560385/000110465926020653/lmca-20251231x10k.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Liberty Media" press release artificial intelligence'
 position: 4
 source: serpapi-google

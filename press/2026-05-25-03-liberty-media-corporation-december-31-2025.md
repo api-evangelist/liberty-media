@@ -1,7 +1,9 @@
 ---
 title: LIBERTY MEDIA CORPORATION_December 31, 2025
 url: https://www.libertymedia.com/investors/financial-information/sec-filings/content/0001104659-26-020653/lmca-20251231x10k.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Liberty Media" press release artificial intelligence'
 position: 3
 source: serpapi-google
